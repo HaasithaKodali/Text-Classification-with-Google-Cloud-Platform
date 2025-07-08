@@ -123,7 +123,7 @@ This system enables users to label text interactively, train TensorFlow models, 
 ## 👨‍💻 Authors
 
 - **Haasitha Kodali**  
-  [Email](mailto:kodalihaasitha@gmail.com) | [LinkedIn](https://linkedin.com/in/KodaliHaasitha)
+  [Email](mailto:kodalihaasitha@gmail.com) 
 
 - **Vardhan Reddy Jollu Bhaskar**
 
